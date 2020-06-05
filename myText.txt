@@ -1,13 +1,2 @@
-Mirage 123
-Coding for SEG2105
-Adding newer Information
-mirag@DESKTOP-L4LSJB8 MINGW64 ~/desktop/Lloseng/temp (master)
-$ git status
-On branch master
-Your branch is up to date with 'origin/master'.
-
-nothing to commit, working tree clean
-
-Evil Hacker
-
-New message added
+New message
+Random Message added and Changed

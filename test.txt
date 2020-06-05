@@ -1,0 +1,20 @@
+9 hours,45 minutes
+
+
+
+
+ #sethost
+
+
+#sethost localhost
+
+#setport 5555
+
+#login
+
+my battery went down
+i will call back at 9
+
+ok
+see u
+wi
